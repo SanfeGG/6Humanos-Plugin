@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "minimum_exe_version": "1.0.0",
+  "files": [
+    {
+      "name": "6HumanosPluginBETA.dll",
+      "url": "https://raw.githubusercontent.com/SanfeGG/6Humanos-Plugin/main/6HumanosPluginBETA.dll",
+      "destination": "%APPDATA%\\bakkesmod\\bakkesmod\\plugins"
+    }
+  ],
+  "plugin_cfg_entry": "plugin load 6humanospluginbeta",
+  "delete": []
+}
